@@ -9,7 +9,7 @@ This module requires [stripe backend module](https://commercemarketplace.adobe.c
 <h4>Tutorial in video </h4>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=eb_eJx93baY">
-    <img src="https://github.com/MAD-I-T/madit-stripe-payments/assets/3765910/efb6616e-f413-4372-bd81-c2d206616037" alt="magento stripe on pwa-studio">
+    <img src="https://github.com/MAD-I-T/madit-stripe-payments-pwa/assets/3765910/2cd18d4e-605c-4d9f-9bea-fd1b0193072e" alt="magento stripe on pwa-studio">
 
   </a>
 </div>
