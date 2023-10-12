@@ -6,10 +6,6 @@ This is the free/opensource version, a more complete pro version can be download
 This module requires [stripe backend module](https://commercemarketplace.adobe.com/stripe-stripe-payments.html) as well as our paid magento [backend module](https://www.madit.fr/shop/product/pwa-studio-stripe-integration-15). Alternatively you can use [scandipwa stripe backend](https://github.com/scandipwa/stripe-graphql) instead which is somewhat functional and free.
 
 
-
-Find here the install instructions in [video](https://www.youtube.com/watch?v=eb_eJx93baY).  
-
-
 <h4>Tutorial in video </h4>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=eb_eJx93baY">
