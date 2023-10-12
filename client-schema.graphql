@@ -1,0 +1,9 @@
+extend type StoreConfig {
+    stripe_mode: String
+    stripe_live_pk: String
+    stripe_test_pk: String
+}
+
+extend type Cart {
+    stripe_payment_method: String
+}
