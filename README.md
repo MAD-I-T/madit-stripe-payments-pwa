@@ -1,7 +1,7 @@
 # madit-stripe-payments
 This is a reactJs extension for magento pwa-studio frontend.
 
-This is the free/opensource version, a more complete pro version can be downloaded [on adobe marketplace](https://commercemarketplace.adobe.com/madit-stripeql.html).
+This is the free/opensource version, a more complete pro version can be downloaded [on adobe marketplace](https://commercemarketplace.adobe.com/madit-stripeql.html) or on [our website](https://www.madit.fr/shop/product/pwa-studio-stripe-integration-15).
 
 This module requires [stripe backend module](https://commercemarketplace.adobe.com/stripe-stripe-payments.html) as well as our paid magento [backend module](https://www.madit.fr/shop/product/pwa-studio-stripe-integration-15). Alternatively, one can use [scandipwa stripe backend](https://github.com/scandipwa/stripe-graphql) instead which is somewhat functional and free.
 
@@ -32,3 +32,4 @@ This module requires [stripe backend module](https://commercemarketplace.adobe.c
 
 5. Install the magento backend-module 
 ```
+Also checkout our [*PAYPAL* pwa studio extension](https://www.madit.fr/shop/product/pwa-studio-paypal-integration-19)
