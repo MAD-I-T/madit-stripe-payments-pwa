@@ -43,6 +43,8 @@ export const SET_CC_DETAILS_ON_CART = gql`
                     stripe_payments: {
                         cc_save: $save
                         cc_stripejs_token: $stripeToken
+                        payment_method: $stripeToken
+
                     }
                 }
             }
